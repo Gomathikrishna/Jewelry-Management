@@ -1,0 +1,33 @@
+// File: app.json
+{
+    "id": "2025a900-4443-4e94-a6c5-65c075640aa1",
+    "name": "Jewelry Shop Management",
+    "publisher": "Your Company Name",
+    "version": "1.0.0.0",
+    "brief": "Jewelry Shop Management Solution",
+    "description": "A Business Central extension for managing jewelry shop operations",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "21.0.0.0",
+    "idRanges": [
+        {
+            "from": 50100,
+            "to": 50149
+        }
+    ],
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": false,
+        "includeSourceInSymbolFile": false
+    },
+    "runtime": "10.0",
+    "features": [
+        "NoImplicitWith"
+    ]
+}
