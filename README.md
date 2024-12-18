@@ -1,5 +1,5 @@
 # Jewelry-Management
-# Jewelry Shop Management for Business Central
+# Jewelry Shop Management using Business Central
 
 ## Overview
 This Business Central extension provides comprehensive jewelry shop management functionality. It helps jewelry retailers manage their inventory, track customer preferences, handle pricing operations, and generate analytical reports.
