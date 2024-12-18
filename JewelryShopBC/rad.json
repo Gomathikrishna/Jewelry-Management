@@ -1,0 +1,33 @@
+{
+    "version": "0.1.0",
+    "configurations": [
+        {
+            "name": "Local Server",
+            "server": "http://localhost",
+            "serverInstance": "BC",
+            "authentication": "Windows",
+            "startupObjectId": 50101,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "tenant": "default",
+            "port": 7049
+        },
+        {
+            "name": "Sandbox Environment",
+            "server": "http://bcserver",
+            "serverInstance": "BC",
+            "authentication": "UserPassword",
+            "startupObjectId": 50101,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "tenant": "default",
+            "port": 7049
+        }
+    ]
+}
